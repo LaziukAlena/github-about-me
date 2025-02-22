@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: rgb(88, 93, 142);
+}
+
+header {
+    border: 2px solid #103456;
+    background-color: #eff7ff;
+    text-align: center;
+}
+
+main {
+    background-color: rgb(155, 194, 233);
+}
+
+a {
+    color: #191970;
+    font-weight: bold;
+}
+
+section {
+    border: 2px solid #103456;
+    background: white;
+    text-align: justify;
+}
+
+div {
+    font-style: italic;
+}
+
+article {
+    border: 2px solid #103456;
+}
+
+aside {
+    background-color: rgb(171, 179, 180);
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 32px;
+    color: #050535;
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+    font-size: 22px;
+    text-decoration: underline;
+    text-align: center;
+}
